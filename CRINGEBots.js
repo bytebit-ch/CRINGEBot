@@ -2,7 +2,7 @@ var Discord = require("discord.js");
 var Client = new Discord.Client();
 var prefix = "-cringe "
 
-Client.loginWithToken("MTkwMTY1NzIzODAzNDE4NjI0.CjnxIQ.hNxTgFEvsAmA1EhbPobrcA5WyzQ");
+Client.loginWithToken("MTkwMTY1NzIzODAzNDE4NjI0.CkljbA.HWy4UfHfaePSwHw3F_MvQ5dWBxY");
 
 Client.on("message", function(message) {
     if(message.content ===  prefix + "toriel") {
