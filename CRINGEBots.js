@@ -17,7 +17,7 @@ Client.on("message", function(message) {
 		Client.reply(message, "http://i1.kym-cdn.com/photos/images/original/001/027/703/0a1.png");
 	}
 	
-	if(message.content === prefix + "pony") {
+	if(message.content === prefix + " pony") {
 		Client.reply(message, "http://66.media.tumblr.com/569cb3b4c4d4f18639ba24ffa28f5fc8/tumblr_nzfmhh0XYD1tgb6wyo1_1280.png");
 	}
 	
