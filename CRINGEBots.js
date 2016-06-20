@@ -34,7 +34,7 @@ Client.on("message", function(message) {
 		Client.reply(message, "https://i.ytimg.com/vi/iLngb8DgttI/hqdefault.jpg");
 	}
 	
-	if(message.content === prefix +" asriel") {
+	if(message.content === prefix + " asriel") {
 		Client.reply(message, "http://img1.joyreactor.cc/pics/post/Undertale-%D1%84%D1%8D%D0%BD%D0%B4%D0%BE%D0%BC%D1%8B-Frisk-Undertale-%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%B6%D0%B8-2638803.jpeg");
 	}
 	
